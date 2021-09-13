@@ -1,0 +1,11 @@
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\bin\Debug\net5.0\AdoBankLibraryConn.deps.json
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\bin\Debug\net5.0\AdoBankLibraryConn.dll
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\bin\Debug\net5.0\ref\AdoBankLibraryConn.dll
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\bin\Debug\net5.0\AdoBankLibraryConn.pdb
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.AssemblyInfoInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.AssemblyInfo.cs
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.dll
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\ref\AdoBankLibraryConn.dll
+C:\Users\Administrator.KANINI-LTP-459\source\repos\AdoBankLibraryConn\obj\Debug\net5.0\AdoBankLibraryConn.pdb
