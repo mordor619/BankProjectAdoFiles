@@ -31,7 +31,8 @@ namespace AdoBankLibraryConn
 
         public static SqlConnection getCon()
         {
-            con = new SqlConnection("Data Source=KANINI-LTP-459\\SQLSERVER26; Initial Catalog=BankLibrary; Integrated Security=true");
+            //add your connection details as per your system
+            con = new SqlConnection("Data Source=.; Initial Catalog=BankLibrary; Integrated Security=true");
 
             con.Open();
 
